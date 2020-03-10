@@ -3,7 +3,7 @@
   <extension point="xbmc.addon.repository" name="MCR Add-ons Repository">
     <info compressed="false">https://mobile-computer-repairs.co.uk/repo/addons.xml</info>
     <checksum>https://mobile-computer-repairs.co.uk/repo/addons.xml.md5</checksum>
-    <datadir zip="true">https://mobile-computer-repairs.co.uk.com/repo/addons</datadir>
+    <datadir zip="true">https://mobile-computer-repairs.co.uk.com/repo/repository</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Install MCR Add-ons</summary>
