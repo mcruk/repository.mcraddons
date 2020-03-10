@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.mcraddons" name="MCR Add-ons" provider-name="MCR Add-ons" version="0.0.1">
+  <extension point="xbmc.addon.repository" name="MCR Add-ons Repository">
+    <info compressed="false">https://mobile-computer-repairs.co.uk/repo/addons.xml</info>
+    <checksum>https://mobile-computer-repairs.co.uk/repo/addons.xml.md5</checksum>
+    <datadir zip="true">https://mobile-computer-repairs.co.uk/repo/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Install MCR Add-ons</summary>
+    <description>Download and install add-ons from the MCR Add-ons repository.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
